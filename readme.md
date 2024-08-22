@@ -1,7 +1,5 @@
 # moodle-theme_ktt_boost_child_som
 
-/
-
 ## Moodle docs
 
 https://docs.moodle.org/dev/Creating_a_theme_based_on_boost
